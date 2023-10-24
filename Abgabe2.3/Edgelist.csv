@@ -1,0 +1,13 @@
+from,to,weigth
+Adam,Eva,1
+Adam,Abraham,2
+Abraham,Ismael,3
+Abraham,Jakob,3
+Abraham,Isaak,3
+Abraham,Sara,1
+Sara,Abraham,1
+Sara,Isaak,1
+Sara,Isaak,3
+Abraham,Jakob,2
+Abraham,Eva,5
+Isaak,Sara,4
